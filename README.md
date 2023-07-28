@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/bgsEY.gif" width="100"/>
-</div>
+<div class="tenor-gif-embed" data-postid="16277406" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/party-gopher-golang-dance-cute-gif-16277406">Party Gopher Sticker</a>from <a href="https://tenor.com/search/party-stickers">Party Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
