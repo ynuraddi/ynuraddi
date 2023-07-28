@@ -16,6 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=ynuraddi&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hiiiiiiii!!!
+  Hello, my name is Yersagyn!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
