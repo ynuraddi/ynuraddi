@@ -26,7 +26,7 @@
 ## :smiley: About Me :
 My name is Ersagyn, I am 23 years old, I am a former student of Satbayev University in the direction of Computer Science.
 
-I am currently staying in Astana, studying at the Alem Programming School, also trained at One Technologies, the corresponding certificates are in my [![LinkedIn](https://img.shields.io/badge/Linked%20In-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ynuraddi/) profile.
+I am currently staying in Astana, studying at the Alem Programming School, also trained at One Technologies, the corresponding certificates are in my [![LinkedIn](https://img.shields.io/badge/Linked%20In-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ynuraddi/) profile.
 
 You can evaluate my skills on the attached projects, I hope I will suit you!
 
