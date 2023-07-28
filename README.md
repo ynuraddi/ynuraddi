@@ -3,13 +3,16 @@
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/pelmenstruation">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <a href="mailto:definston@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/ynuraddi/">
-    <img src="https://img.shields.io/badge/Linked%20In-blue?style=for-the-badge&logo=linkedin" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Linked%20In-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://leetcode.com/definston/">
+    <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=leetcode" alt="Leetcode Badge"/>
   </a>
 </div>
 <div align="center">
