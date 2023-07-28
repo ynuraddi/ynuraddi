@@ -24,11 +24,11 @@
 </h1>
 
 ## :smiley: About Me :
-My name is Ersagyn, I am 23 years old, I am a former student of Satbayev University in the direction of Computer Science.
+I am thrilled to introduce myself – Yersagyn, a 23-year-old with a passion for Computer Science. I had the privilege of being a student at Satbayev University, where I pursued my education in this exciting field.
 
-I am currently staying in Astana, studying at the Alem Programming School, also trained at One Technologies, the corresponding certificates are in my [![LinkedIn](https://img.shields.io/badge/Linked%20In-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ynuraddi/) profile.
+Currently, I am in Astana, honing my skills at the renowned Alem Programming School. I also had the valuable opportunity to receive training at One Technologies, and you can find the relevant certificates proudly displayed on my [![LinkedIn](https://img.shields.io/badge/Linked%20In-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ynuraddi/) profile.
 
-You can evaluate my skills on the attached projects, I hope I will suit you!
+My journey has led me to work on some remarkable projects, and I am eager for you to evaluate my skills. I genuinely hope that my abilities align with what you are seeking.
 
 ## :rocket: Languages and Tools :
 <div>
