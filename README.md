@@ -3,12 +3,12 @@
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/pelmenstruation">
-    <img src="https://img.shields.io/badge/%40pelmestruation-blue?style=for-the-badge&logo=telegram" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:definston@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/ynuraddi/">
+    <img src="https://img.shields.io/badge/Linked%20In-blue?style=for-the-badge&logo=linkedin" alt="Twitter Badge"/>
   </a>
 </div>
