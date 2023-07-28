@@ -23,9 +23,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :smiley: About Me :
+## :smiley: About Me :
 My name is Ersagyn, I am 23 years old, I am a former student of Satbayev University in the direction of Computer Science.
 
 I am currently staying in Astana, studying at the Alem Programming School, also trained at One Technologies, the corresponding certificates are in my [LinkedIn](https://www.linkedin.com/in/ynuraddi/) profile.
 
 You can evaluate my skills on the attached projects, I hope I will suit you!
+
+## :rocket: My Skills :
