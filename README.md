@@ -57,29 +57,35 @@ The project is a forum where you can create an account, posts and leave comments
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
 
+
+
 2. OneLab - March 2023
 My training at One Lab Techologies.
 I have been selected to study at One Lab Technologies. I realized how good it is to have a mentor) I learned a lot there, mastered good practices, there was an understanding of what I would do at work. For the first time I used third-party libraries, figured out someone else's code.
 The project is a library with payment transactions divided into several services.
 ***What I used, what I learned: microservices, multi-stage building in docker-compose and communication between services, graceful shutdown, best practices in config, logging and etc. Echo router, Swagger documentation, GORM only in quries, safety transactions.***
-</a>
+* </a>
   <a href="https://github.com/ynuraddi/onelab">
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
+
+
 
 3. SimpleBank - Jun 2023
 Pet project during which he gained great knowledge
 The project is a simple bank with the ability to create an account and multi-currency accounts, and this service can also accept requests in both http-json and gRPC format
 ***What I used, what I learned: gRPC and Gateway, generate docs gRPC, using JWT & PASETO tokens for authorization, using GitHub Actions, what is CI/CD, strong unit and integration testing, mock.***
-</a>
+* </a>
   <a href="https://github.com/ynuraddi/simple-bank">
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
 
+
+
 4. DataStructures - May 2023
 I also practice learning algorithms, you can visit my [![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat-square&logo=leetcode)](https://leetcode.com/definston/)
 And this is a repository with solutions, broken down by topics that I studied:
-</a>
+* </a>
   <a href="https://github.com/ynuraddi/data-strutures">
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
