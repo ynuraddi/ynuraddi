@@ -56,8 +56,8 @@ The project is a forum where you can create an account, posts and leave comments
   <a href="https://github.com/ynuraddi/forum">
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
-\n\n
-
+:beginner:
+:beginner:
 
 2. OneLab - March 2023
 My training at One Lab Techologies.
@@ -68,8 +68,8 @@ The project is a library with payment transactions divided into several services
   <a href="https://github.com/ynuraddi/onelab">
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
-\n\n
-
+:beginner:
+:beginner:
 
 3. SimpleBank - Jun 2023
 Pet project during which he gained great knowledge
@@ -79,7 +79,8 @@ The project is a simple bank with the ability to create an account and multi-cur
   <a href="https://github.com/ynuraddi/simple-bank">
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
-\n\n
+:beginner:
+:beginner:
 
 
 4. DataStructures - May 2023
@@ -89,6 +90,8 @@ And this is a repository with solutions, broken down by topics that I studied:
   <a href="https://github.com/ynuraddi/data-strutures">
   <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
+:beginner:
+:beginner:
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ynuraddi&theme=dark&background=000000)](https://git.io/streak-stats)
