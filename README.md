@@ -47,6 +47,12 @@ My journey has led me to work on some remarkable projects, and I am eager for yo
 ## :zap: My Porjects (briefly):
 In the near future, I will write my own documentation for everyone with a description of the functionality and my experience when working with it
 
+0. Recent test-assgnment - July 2023
+* </a>
+  <a href="https://github.com/ynuraddi/t-tsarka">
+  <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
+</a>
+
 1. Forum - Jan 2023
 My first whole self-written project
 The project is written using a not very clean architecture, but I learned a lot from writing it, for example, how important it is to structure the code)
