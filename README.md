@@ -88,7 +88,7 @@ I also practice learning algorithms, you can visit my [![LeetCode](https://img.s
 And this is a repository with solutions, broken down by topics that I studied:
 * </a>
   <a href="https://github.com/ynuraddi/data-strutures">
-  <img src="https://img.shields.io/badge/to%20project-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
+  <img src="https://img.shields.io/badge/to%20repo-gray?style=for-the-badge&logo=GO" alt="Project Badge"/>
 </a>
 
 
