@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/500rWqut3sMAAAAi/party-gopher.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/pelmenstruation">
+  <a href="https://t.me/ynuraddi">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <a href="mailto:definston@gmail.com">
